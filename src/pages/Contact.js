@@ -10,7 +10,7 @@ const Contact = () => {
     <>
       <Header />
 
-      <div className="container pt-5">
+      <div className="container pt-5 mt-5">
         <div className="row  g-lg-5 py-5">
           <div className="col-md-1 "></div>
           <div className="col-md-5 text-center text-lg-start">
