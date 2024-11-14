@@ -179,7 +179,7 @@ const Home = () => {
                     </h1>
                     <CardPortfolio />
                     <div className="col-md-12 pb-5">
-                        <Link to="#" className="btn w-100" style={{ color: 'white', backgroundColor: '#095D89', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                        <Link to="/projects" className="btn w-100" style={{ color: 'white', backgroundColor: '#095D89', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                             See all <img src={zer} alt="..." style={{ height: "20px", width: "20px", marginLeft: "8px" }} />
                         </Link>
                     </div>
