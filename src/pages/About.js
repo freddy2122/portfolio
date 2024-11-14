@@ -16,7 +16,7 @@ const About = () => {
       <Header />
 
       <div className=" " style={{ backgroundColor: "#FFE9D9" }}>
-        <div className="container pb-5 pt-5 " >
+        <div className="container pb-5 pt-5 mt-3 " >
           <div class="row align-items-center g-lg-5 py-5">
             <div className="col-md-10 mx-auto col-lg-5">
               <img src={Content} className="d-block mx-lg-auto img-fluid" alt="" width="700" height="500" />
