@@ -53,7 +53,7 @@ const Projects = () => {
   return (
     <>
       <Header />
-      <div className="container pt-3 mt-5 mb-4">
+      <div className="container pt-5 mt-5 mb-4">
         <p style={{ fontFamily: "'Syne ', sans-serif", color: '#FFB646' }}>Portfolio</p>
         <div className="d-flex align-items-center justify-content-between mb-3">
           <h1 className="fw-bold lh-1 mb-3" style={{ fontFamily: "'Syne ', sans-serif", color: '#095D89' }}>
